@@ -9,15 +9,18 @@
 *  -l  = large
 
 ## Install
+Grab the css partial from github and include it in your project or alternatively
+you can install it via npm:
 ```
 npm install --save-dev css-colors
 ```
-or download the css on github and include in your project.
+View on [npm](https://www.npmjs.org/package/css-colors)
+
 
 ## File Size
 
-
-## The Code
+3.0K colors.css
+T
 ```
 [http://mrmrs.cc](http://mrmrs.cc - Entire internet gateway to all things mrmrs)
 [http://mrmrs.io](http://mrmrs.io - Open source projects)
