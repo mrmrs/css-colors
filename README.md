@@ -20,8 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-colors)
 ## File Size
 
 3.0K colors.css
-T
-```
+T 
+1minified and gzipped
 [http://mrmrs.cc](http://mrmrs.cc - Entire internet gateway to all things mrmrs)
 [http://mrmrs.io](http://mrmrs.io - Open source projects)
 
