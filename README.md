@@ -20,7 +20,7 @@ View on [npm](https://www.npmjs.org/package/css-colors)
 ## File Size
 
 3.0K colors.css
-T 
+T
 1minified and gzipped
 [http://mrmrs.cc](http://mrmrs.cc - Entire internet gateway to all things mrmrs)
 [http://mrmrs.io](http://mrmrs.io - Open source projects)
@@ -29,7 +29,7 @@ T
 
 The MIT License (MIT)
 
-Copyright (c) 2014 @mrmrs
+Copyright (c) 2015 @mrmrs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
