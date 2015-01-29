@@ -1,7 +1,7 @@
 {
   "name": "css-colors",
   "style": "colors.css",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "homepage": "http://github.com/mrmrs/css-colors",
   "description": "Css module of single purpose classes for colors",
   "keywords": [
