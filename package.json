@@ -7,8 +7,6 @@
   "keywords": [
     "css",
     "oocss",
-    "",
-    ""
   ],
   "css-colors": {
     "type": "git",
@@ -31,9 +29,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-basswork": "^0.1.0",
-    "gulp-minify-css": "^0.4.6",
-    "gulp-rename": "^1.2.0"
+    "tachyons-cli": "^0.3.2"
   }
 }
