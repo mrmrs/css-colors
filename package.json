@@ -1,37 +1,44 @@
 {
-  "name": "css-colors-variables",
-  "style": "colors.css",
-  "version": "1.0.1",
-  "homepage": "http://github.com/mrmrs/css-colors",
-  "description": "Css module of single purpose classes for colors",
+  "name": "",
+  "version": "1.0.0",
+  "description": "Functional CSS for colors",
+  "style": "dist/colors.css",
+  "main": "dist/colors.css",
+  "exports": {
+    ".": "./dist/colors.css",
+    "./dist/*": "./dist/*",
+    "./src/*": "./src/*"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "prepublishOnly": "npm run build"
+  },
   "keywords": [
     "css",
-    "oocss",
+    "colors",
+    "utility",
+    "single-purpose",
+    "functional-css"
   ],
-  "css-colors": {
+  "homepage": "https://github.com/mrmrs/css-colors",
+  "repository": {
     "type": "git",
-    "url": "http://github.com/mrmrs/css-colors.git"
+    "url": "https://github.com/mrmrs/css-colors.git"
   },
   "bugs": {
-    "url": "https://github.com/mrmrs/repo/issues",
-    "email": "hi@mrmrs.cc"
+    "url": "https://github.com/mrmrs/css-colors/issues"
   },
   "author": {
     "name": "Adam Morse",
     "email": "hi@mrmrs.cc",
     "url": "http://mrmrs.cc"
   },
-  "contributors": [
-    {
-      "name": "Adam Morse",
-      "email": "hi@mrmrs.cc"
-    }
-  ],
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "lightningcss": "^1"
-  },
-  "scripts": {
-    "build": "node build.js"
   }
 }
